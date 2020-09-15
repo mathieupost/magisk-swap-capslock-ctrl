@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=ctrl2caps
+name=Swap caps lock and ctrl
+version=v1.0
+versionCode=1
+author=mathieupost
+description=Swaps the caps lock key and the left ctrl key on external keyboards
+support=https://github.com/mathieupost/magisk-swap-capslock-ctrl
